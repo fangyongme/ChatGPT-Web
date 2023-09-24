@@ -15,9 +15,9 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
+      avatar: 'https://z1.ax1x.com/2023/09/25/pP7Vd3T.jpg',
       name: '银杏AI',
-      description: '',
+      description: '关注公众号“银杏AI”，获取AI知识库',
     },
   }
 }
